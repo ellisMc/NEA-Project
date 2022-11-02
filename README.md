@@ -1,2 +1,3 @@
 # NEA-Project
-Unity based aim trainer
+Unity based aim trainer,
+first commit.
